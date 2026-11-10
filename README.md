@@ -1,6 +1,4 @@
 # Library-Management-System
-
-# Recommend Me!
 [![Version](https://img.shields.io/static/v1?label=Version&message=1.0.0v&color=blue)]()
 
 Ever wondered how libraries keep track of thousands of books, borrowers, and records so seamlessly? Back in 10th grade, I set out to uncover that mystery — and build my very own digital librarian. The result? Library-Management-System, a Python-based project that brings the timeless organization of libraries into the digital age.
